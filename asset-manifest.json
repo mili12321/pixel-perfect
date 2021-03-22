@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/pixel-perfect/static/css/main.c777b4c1.chunk.css",
+    "main.js": "/pixel-perfect/static/js/main.d77bca06.chunk.js",
+    "main.js.map": "/pixel-perfect/static/js/main.d77bca06.chunk.js.map",
+    "runtime-main.js": "/pixel-perfect/static/js/runtime-main.1ba51f35.js",
+    "runtime-main.js.map": "/pixel-perfect/static/js/runtime-main.1ba51f35.js.map",
+    "static/js/2.c0a0a7e2.chunk.js": "/pixel-perfect/static/js/2.c0a0a7e2.chunk.js",
+    "static/js/2.c0a0a7e2.chunk.js.map": "/pixel-perfect/static/js/2.c0a0a7e2.chunk.js.map",
+    "static/js/3.31a47d2b.chunk.js": "/pixel-perfect/static/js/3.31a47d2b.chunk.js",
+    "static/js/3.31a47d2b.chunk.js.map": "/pixel-perfect/static/js/3.31a47d2b.chunk.js.map",
+    "index.html": "/pixel-perfect/index.html",
+    "static/css/main.c777b4c1.chunk.css.map": "/pixel-perfect/static/css/main.c777b4c1.chunk.css.map",
+    "static/js/2.c0a0a7e2.chunk.js.LICENSE.txt": "/pixel-perfect/static/js/2.c0a0a7e2.chunk.js.LICENSE.txt",
+    "static/media/global.scss": "/pixel-perfect/static/media/hero-bg-mobile.56d0d7be.jpg",
+    "static/media/menu-item1.7bd94a87.jpg": "/pixel-perfect/static/media/menu-item1.7bd94a87.jpg",
+    "static/media/menu-item2.81249e77.jpg": "/pixel-perfect/static/media/menu-item2.81249e77.jpg",
+    "static/media/menu-item3.22eddbf1.jpg": "/pixel-perfect/static/media/menu-item3.22eddbf1.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1ba51f35.js",
+    "static/js/2.c0a0a7e2.chunk.js",
+    "static/css/main.c777b4c1.chunk.css",
+    "static/js/main.d77bca06.chunk.js"
+  ]
+}
